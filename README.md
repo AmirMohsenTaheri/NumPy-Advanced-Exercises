@@ -9,7 +9,7 @@ The NumPy library is one of the most widely used libraries for working with numb
 
 By using NumPy's n-dimensional arrays (ndarray), one can overcome the limitations of Python lists, which require the use of loops for operations, thereby increasing efficiency. The main limitation of NumPy's n-dimensional arrays compared to Python lists is that all elements must be of the same data type. However, the operations performed using n-dimensional arrays are faster.
 
-To see the difference in speed between Python lists and NumPy, [visit](./speed_test.ipynb)
+To see the difference in speed between Python lists and NumPy, [visit](./speed_test.py)
 
 ## About Me
 > [!NOTE]
