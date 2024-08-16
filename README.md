@@ -19,9 +19,8 @@ To see the difference in speed between Python lists and NumPy, [visit](./speed_t
 > The purpose of gathering these questions is to provide additional practice for learning the NumPy library.
 
 ### You can find me at:
-> [!IMPORTANT]
-> [linkdin](www.linkedin.com/in/amirmohsen-taheri)
-> [instagram](instagram.com/pybyamir)
-> [Gmail](amirmohsentaheri.k@gmail.com)
+1. [linkdin](www.linkedin.com/in/amirmohsen-taheri)
+2. [instagram](instagram.com/pybyamir)
+3. [Gmail](amirmohsentaheri.k@gmail.com)
 
 # Updating...
